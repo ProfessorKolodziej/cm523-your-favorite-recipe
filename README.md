@@ -25,6 +25,7 @@ two weeks to write the CSS and lots of class time, so challenge yourself with a 
 - [ ] Your CSS classes are named in a way that's easy for another developer to read and understand.
 - [ ] Your specificity is minimal, so other developers can easily override your CSS if needed later on.
 - [ ] Your design renders consistently in the most recent version of Safari, Firefox, Google Chrome, and Microsoft Edge. (You can use https://www.browserstack.com/test-on-microsoft-edge-browser to test this if you don't have them installed.)
+- [ ] The finished product looks like your mockup, minus any interactivity, animation, or functionality that might require JavaScript.
 
 ## Finished Assignment Example
 

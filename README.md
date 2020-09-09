@@ -29,8 +29,10 @@ two weeks to write the CSS and lots of class time, so challenge yourself with a 
 
 ## Finished Assignment Example
 
-- Part 1 Finished Example: [https://github.com/ProfessorKolodziej/cm523-solutions/tree/your-favorite-recipe-part-1](https://github.com/ProfessorKolodziej/cm523-solutions/tree/your-favorite-recipe-part-1)
-- Part 2 Finished Example: [https://github.com/ProfessorKolodziej/cm523-solutions/tree/your-favorite-recipe-part-2](https://github.com/ProfessorKolodziej/cm523-solutions/tree/your-favorite-recipe-part-2)
+Hint: Use Inspect Element to double check your HTML and CSS.
+
+- Part 1 Finished Example: [https://your-favorite-recipe-pt1-example.glitch.me](https://your-favorite-recipe-pt1-example.glitch.me)
+- Part 2 Finished Example: [https://your-favorite-recipe-pt2-example.glitch.me](https://your-favorite-recipe-pt2-example.glitch.me)
 
 ## Get started by syncing with Glitch!
 

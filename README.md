@@ -16,6 +16,7 @@ two weeks to write the CSS and lots of class time, so challenge yourself with a 
 - [ ] You have chosen the most semantic HTML tags possible to mark up your content. *Hint: refer to the second lecture videos and ask questions in class if you're debating between two tags.*
 - [ ] Your recipe includes a title, introduction paragraph, ingredients, and directions. You can include other content if you like, such as images.
 - [ ] If the recipe is from a website or book, you have cited the source and marked it up appropriately.
+- [ ] Don't worry about autograding for part 1.
 
 ## Requirements: Part 2
 
@@ -26,6 +27,7 @@ two weeks to write the CSS and lots of class time, so challenge yourself with a 
 - [ ] Your specificity is minimal, so other developers can easily override your CSS if needed later on.
 - [ ] Your design renders consistently in the most recent version of Safari, Firefox, Google Chrome, and Microsoft Edge. (You can use https://www.browserstack.com/test-on-microsoft-edge-browser to test this if you don't have them installed.)
 - [ ] The finished product looks roughly like your mockup, minus any interactivity, animation, or functionality that might require JavaScript.
+- [ ] Autograding should pass.
 
 ## Finished Assignment Example
 
@@ -82,17 +84,22 @@ You only need to install development dependencies when you first start the assig
 
 ### 6. New: Open a pull request on GitHub for feedback
 
+You'll be working on this assignment in two parts: one for the HTML, and one for the CSS. But wait - how can you turn in _just_ the code for part 1, and _just_ the code for part two on Blackboard? You're going to do this using pull requests. Pull requests group related code together to make it easier for someone reviewing your code to understand what's being changed. So in this assignment, your first pull request will be for HTML. As your professor, I will review it, grade it, and approve it. 
+
+In the second week of working on this, you'll **merge** your changes, spend the next two weeks working to style your site, and then create a **new** pull request for your CSS.
+
 | Step | Screenshot |
 | --- | --- |
 | Open Tower, and make sure you are in your Repository view, and that you've clicked "Working Copy". <ol><li>Click “Stage All”</li><li>Write a commit message in the Commit Subject area. Keep it short and descriptive of the changes you made.</li><li>Hit “Commit”. This creates a commit, and your changes will “disappear”.</li></ol> | ![image9](https://user-images.githubusercontent.com/1828613/130551912-d3ffbeca-089d-4311-a2de-d82258eb9676.png) | 
 | This is what that "disappearing" will look like. Don't panic, your changes are still there! You can see they are because now there will be a small arrow with a number. This is how many changes you will be pushing. It's time to **push** your changes. Click the small up arrow to push your changes to GitHub. | ![image6](https://user-images.githubusercontent.com/1828613/130552156-9fd93037-8f3d-479f-a314-40e1d18ee5f8.png) | 
+| This is where the new process comes in! Go back to the assignment in GitHub. Now, you'll see a small yellow banner with a green button to open a pull request. Click it! | <img width="1678" alt="Screen Shot 2021-09-14 at 8 20 24 PM" src="https://user-images.githubusercontent.com/1828613/133350984-396374a8-76fd-432b-93a9-fcee7660e1d6.png"> | 
+| This is what it looks like to open a pull request. Give it a title, and a description of what I should expect from your changes. In this case, it's pretty easy - just Part 1, and that you updated the HTML and content. Click the green "Open pull request" button at the bottom when you're done. | <img width="1690" alt="Screen Shot 2021-09-14 at 8 21 52 PM" src="https://user-images.githubusercontent.com/1828613/133351098-f65a0ff5-52a7-43f7-82fa-19c565bae083.png"> | 
+| This is the URL you'll send me in Blackboard! **Don't click the merge button yet.** You shouldn't be able to click it at first, but just in case you can, please don't click it until I say you can in your review. | <img width="1692" alt="Screen Shot 2021-09-14 at 8 23 02 PM" src="https://user-images.githubusercontent.com/1828613/133351306-54e338f0-f726-4001-9f22-0d9668aa0512.png"> | 
 
 ### 7. Check Autograding
 
-This repository uses Autograding to check the basic assignment requirements. Once you pass these requirements, [send me a link to the pull request in Blackboard](https://mymedia.bu.edu/media/Put+it+All+TogetherA+Blackboard%2C+Github%2C+Glitch/1_66r1kz2n?st=825). I'll give you additional feedback on things like performance and coding style, so you know how to improve your code for next time.
-
-[Learn more about Autograding in this video](https://mymedia.bu.edu/media/Put+it+All+TogetherA+Blackboard%2C+Github%2C+Glitch/1_66r1kz2n?st=676)
+Just like before, at this point, you can check Autograding. It'll give you the same results as `npm run test`. Don't worry if all your tests aren't passing for Part 1. They will need to test for Part 2, though.
 
 ### 8. Repeat the above steps for Part 2
 
-One of the great things about branches is that they contain code that is specific to a task or problem. In Part 2, you'll learn how to ...
+Rinse and repeat! We'll talk about how to **pull** changes and what to do to keep working on part 2 in class.

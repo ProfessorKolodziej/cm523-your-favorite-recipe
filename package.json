@@ -92,16 +92,11 @@
     ],
     "testPathIgnorePatterns": [],
     "transformIgnorePatterns": [],
-    "haste": {
-      "providesModuleNodeModules": [
-        "cm523-unit-tests/your-favorite-recipe"
-      ]
-    },
     "transform": {
       "\\.js$": [
         "babel-jest",
         {
-          "configFile": "./node_modules/cm523-unit-tests/babel.config.js"
+          "configFile": "./config/babel.config.js"
         }
       ]
     }

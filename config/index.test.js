@@ -17,7 +17,7 @@ describe('index.html', () => {
 		} );
 	} );
 
-	test('Your recipe includes a title. (Hint: do you have a heading tag? What level is it?)', () => {
+	test('Your recipe includes a heading which tells the user what the title of the recipe is. (Hint: do you have a heading tag? What level is it?)', () => {
 		expect( container.querySelector( 'h1' ) ).not.toBeNull();
 	} );
 

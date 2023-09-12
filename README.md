@@ -25,6 +25,7 @@ two weeks to write the CSS and lots of class time, so challenge yourself with a 
 
 - [ ] All CSS is valid.
 - [ ] Your HTML is still semantic and additional HTML tags required for styling, if any, are used sparingly.
+- [ ] There is no inline CSS or CSS in style tags.
 - [ ] Your CSS selectors use classes, not IDs.
 - [ ] Your CSS classes are named in a way that's easy for another developer to read and understand.
 - [ ] Your specificity is minimal, so other developers can easily override your CSS if needed later on.

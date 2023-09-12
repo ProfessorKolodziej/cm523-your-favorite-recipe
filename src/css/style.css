@@ -1,21 +1,11 @@
-/*
-CSS controls the styling of the page.
-You can write a color in directly, or use variables.
-
-Try uncommenting the code below. Then, change
-the primary color from blue to red.
-
-This is a useful way to keep a consistent color
-across many rules.
-*/
-
-/*
-:root {
-	--color-primary: blue;
-	--color-secondary: #c00;
+@media screen and (width >= 320px) {
+	#some-id {
+		color: red;
+	}
 }
 
-h1 {
-	color: var(--color-primary);
+@media screen and (width >= 500px) {
+	#some-id {
+		color: red;
+	}
 }
-*/

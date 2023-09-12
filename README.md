@@ -13,18 +13,21 @@ two weeks to write the CSS and lots of class time, so challenge yourself with a 
 ## Requirements: Part 1
 
 - [ ] All HTML is valid.
-- [ ] You have chosen the most semantic HTML tags possible to mark up your content. *Hint: refer to the second lecture videos and ask questions in class if you're debating between two tags.*
 - [ ] Your recipe includes a title using an h1 tag.
 - [ ] Your recipe includes an introduction paragraph.
 - [ ] Your recipe includes ingredients, using the ul tag.
 - [ ] Your recipe includes directions, using the ol tag.
-- [ ] If the recipe is from a website or book, you have cited the source and marked it up appropriately, including a link back to the original website if applicable.
+- [ ] Your recipe source is cited and linked using an a tag.
+- [ ] The order of your recipe content makes sense and reads easily. It is not reordered to accommodate your desktop layout, and could be read by a screen reader from top to bottom.
+- [ ] All HTML tags are semantic, and divs/spans are avoided where possible.
+- [ ] No heading levels are skipped - you used h1, h2, h3, etc in the correct order. (It's okay to use multiple of the same heading if they are the same level of importance.)
+- [ ] Formatting, including indentation, spacing, etc, is consistent and easy to read.
 - [ ] If you used AI assistance, you have sourced it using an HTML comment.
 
 ## Requirements: Part 2
 
+- [ ] Your code still meets the requirements in Part 1.
 - [ ] All CSS is valid.
-- [ ] Your HTML is still semantic and additional HTML tags required for styling, if any, are used sparingly.
 - [ ] There is no inline CSS or CSS in style tags.
 - [ ] Your CSS selectors use classes, not IDs.
 - [ ] Your CSS classes are named in a way that's easy for another developer to read and understand.

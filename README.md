@@ -9,6 +9,8 @@ to keep the proper semantics of the HTML, while doing your best to acheive what 
 two weeks to write the CSS and lots of class time, so challenge yourself with a great design!
 
 ## How to get started
+- Open this repository with GitHub Desktop using the green button.
+- In GitHub Desktop, right click the repository name, then select Open in Visual Studio Code.
 - In Visual Studio code, open the terminal panel.
 - **The first time you work on this project:** Type `npm install` and hit enter. Wait for the installation to finish.
 - **All other times:** Type `npm run start`. A new window in your default browser will show up. Nothing will be present.

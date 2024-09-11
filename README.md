@@ -8,6 +8,34 @@ will use the wireframes and mockup of your recipe to add images and write CSS fo
 to keep the proper semantics of the HTML, while doing your best to acheive what you mocked up. You will have 
 two weeks to write the CSS and lots of class time, so challenge yourself with a great design!
 
+## How to get started
+- In Visual Studio code, open the terminal panel.
+- **The first time you work on this project:** Type `npm install` and hit enter. Wait for the installation to finish.
+- **All other times:** Type `npm run start`. A new window in your default browser will show up. Nothing will be present.
+- **In src/index.html:** Open the file and add an `<h1>Title</h1>` tag inside the body tag. Save the file.
+- Your change should show up in the window!
+
+### How to start and stop the preview window
+- Use `npm run start` to start the preview in your browser.
+- Use the `ctrl + c` shortcut in the terminal to stop the preview.
+
+### How to test code before you turn it in
+You can test code before you turn it in.
+- Use the `ctrl + c` shortcut in the terminal to stop the preview.
+- In your terminal window, type `npm run test`.
+- Review the test results carefully. You may need to scroll up to see if there are any issues.
+
+### To turn in code
+If you're having trouble remembering the exact steps here, you can look at the instructions for Test Your Connections.
+- Save your changes in Visual Studio Code
+- Go to GitHub Desktop
+- Commit your changes
+- Push your changes
+- Go to Blackboard
+- Open Gradescope in a new tab
+- Submit your code from this repository to the assignment in Gradescope. You'll do this twice - once for assignment 3, once for assignment 5.
+- You should see the same test results as you got running the test locally. If you don't, please ask me!
+
 ## Requirements: Part 1
 
 - [ ] All HTML is valid.
